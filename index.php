@@ -43,29 +43,6 @@ Copyright (C) 2016  Lenny Linux
 </head>
 <body>
 
-<script type="text/javascript">
-
-    function print(iid) {
-
-        //call PHP ajax and move file to hot folder!
-        $.ajax({
-            data: {imageId: iid},
-            url: 'copyFile.php',
-            type: 'POST',
-            success: function (response) {
-
-
-                console.log(response);
-            },
-            error: function (xhr, status, error) {
-
-                console.log(xhr.statusText);
-
-            }
-
-        });
-    }
-</script>
 <div id="header">
     <div class="logo_left"><img src="theme/img/logo_links.jpg" alt="logo_links"></div>
     <div class="logo_right"><img src="theme/img/logo_rechts.jpg" alt="logo_rechts"></div>
