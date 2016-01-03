@@ -1,0 +1,113 @@
+
+
+
+body {
+
+
+
+
+background-color: #ffffff;
+
+
+}
+
+.clearing-thumbs li, [data-clearing] li {
+    margin-top: 10px;
+
+
+}
+
+
+#header {
+
+    width: 100%;
+    height: 200px;
+
+}
+
+#header .logo_left {
+
+    float: left;
+    height: 200px;
+    width: 480px;
+
+}
+
+#header .logo_right {
+
+    float: right;
+    height: 200px;
+    width: 480px;
+    text-align: right;
+
+}
+
+li.numbering {
+
+    border: 1px solid darkslategray;
+    list-style: none;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    margin-top: 10px;
+    color: #303030;
+    background-color: #008CBA;
+
+}
+
+table.nostyle {
+
+    background-color: transparent;
+    text-align: center;
+    padding-top: 5px;
+    width: 100%;
+    border: 0px;
+}
+
+table.nostyle tr, td {
+    background-color: transparent;
+    text-align: center;
+    border: 0px;
+
+}
+
+table.nostyle td.desc {
+    font-size: 1.1em!important;
+    padding-top: 20px!important;
+    text-align: center;
+    color: #333333;
+}
+
+input[type="text"]{
+
+    height: 5.3125rem!important;
+    font-size: 2.875rem!important;
+}
+
+span.prefix {
+    height: 5.3125rem!important;
+    line-height: 5.3125rem!important;
+    font-size: 2.075rem!important;
+    color: #777777;
+}
+
+.imgtoolbar {
+
+    font-size: 1.3em;
+    font-weight: bold   ;
+}
+
+.imgtoolbar img {
+    height: 48px;
+
+}
+
+.helptoolbar img {
+    height: 96px;
+}
+
+.linkdesc {
+
+    padding-left: 15px;
+    font-size: 1.4em;
+}

@@ -1,0 +1,46 @@
+.clearing-blackout {
+    background: #ffffff;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 998; }
+
+
+.clearing-assembled .clearing-container .visible-img {
+
+    background: #ffffff!important;
+    margin-top: 10%!important;
+
+
+
+    }
+
+
+.clearing-assembled .clearing-container {
+
+    height: 100%!important;
+
+
+}
+
+.clearing-assembled .clearing-container .visible-img {
+
+    height: 65% !important;
+
+}
+
+.clearing-assembled .clearing-container .carousel {
+
+    background-color: #ffffff;
+}
+.clearing-container .menu {
+    height: 15%;
+    width: 100%;
+    position: absolute;
+    z-index: 1500;}
+
+.close { font-size: 1.6em; }
+
+.button { font-size: 1.6em;!important; }
