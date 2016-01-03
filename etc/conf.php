@@ -32,9 +32,9 @@ class Constans {
     const PAGE_TITLE        = 'Fotobox';
     const IMAGE_HIGHT       = '840px';
     const UNIQUE_CODE_LNG   = '8';
-    const PATH_UNIQUE_INF   = 'C:\bind\websrv\htdocs\fotokiste\modules\uniqueID\uniqueId.ini';
-	const SERVER_DOC_ROOT   = 'C:\bind\websrv\htdocs\fotokiste';
-	const UNIQUE_IMG_DIR    = 'C:/bind/websrv/htdocs/fotokiste/images/original/';
+    const PATH_UNIQUE_INF   = 'C:\bind\websrv\htdocs\***\modules\uniqueID\uniqueId.ini';
+	const SERVER_DOC_ROOT   = 'C:\bind\websrv\htdocs\***';
+	const UNIQUE_IMG_DIR    = 'C:/bind/websrv/htdocs/***/images/original/';
 	
 	
 	
