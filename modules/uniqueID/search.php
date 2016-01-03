@@ -25,11 +25,11 @@ Copyright (C) 2016  Lenny Linux
 <?php
 /**
  * Created by PhpStorm.
- * User: Timo
+ * User: Lenny
  * Date: 16.07.2015
  * Time: 21:38
  */
-require_once 'C:/bind/websrv/htdocs/fotokiste/etc/conf.php';
+require_once 'C:/bind/websrv/htdocs/*****/etc/conf.php';
 
 $server_documentroot = Constans::getDocRoot();
 
