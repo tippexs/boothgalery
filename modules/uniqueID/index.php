@@ -22,7 +22,7 @@ Copyright (C) 2016  Lenny Linux
 
 
 */ ?>
-<?php require_once 'C:/bind/websrv/htdocs/fotokiste/etc/conf.php'; ?>
+<?php require_once '../../etc/conf.php'; ?>
 <script type="text/javascript">
 
 //darf nur Zahlen und Buchstaben / keine Sonderzeichen und min. 8 Zeichen
