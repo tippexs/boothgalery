@@ -22,14 +22,9 @@ Copyright (C) 2016  Lenny Linux
 
 
 */ ?>
+<?php require_once '../../etc/conf.php'; ?>
 <?php
-/**
- * Created by PhpStorm.
- * User: Lenny
- * Date: 16.07.2015
- * Time: 21:38
- */
-require_once 'C:/bind/websrv/htdocs/*****/etc/conf.php';
+
 
 $server_documentroot = Constans::getDocRoot();
 
